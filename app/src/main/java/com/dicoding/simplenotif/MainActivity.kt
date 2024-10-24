@@ -97,5 +97,5 @@ class MainActivity : AppCompatActivity() {
         private const val CHANNEL_ID = "channel_01"
         private const val CHANNEL_NAME = "dicoding channel"
     }
-//    test
+//    test push
 }
